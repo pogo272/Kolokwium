@@ -1,0 +1,7 @@
+C:\Users\Michał\source\repos\DOm\DOm\bin\Debug\DOm.exe.config
+C:\Users\Michał\source\repos\DOm\DOm\bin\Debug\DOm.exe
+C:\Users\Michał\source\repos\DOm\DOm\bin\Debug\DOm.pdb
+C:\Users\Michał\source\repos\DOm\DOm\obj\Debug\DOm.csprojResolveAssemblyReference.cache
+C:\Users\Michał\source\repos\DOm\DOm\obj\Debug\DOm.csproj.CoreCompileInputs.cache
+C:\Users\Michał\source\repos\DOm\DOm\obj\Debug\DOm.exe
+C:\Users\Michał\source\repos\DOm\DOm\obj\Debug\DOm.pdb
