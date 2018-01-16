@@ -1,0 +1,5 @@
+c:\users\piotrek\documents\visual studio 2013\Projects\BiuroPodrozyKonsola\BiuroPodrozyKonsola\bin\Debug\BiuroPodrozyKonsola.exe.config
+c:\users\piotrek\documents\visual studio 2013\Projects\BiuroPodrozyKonsola\BiuroPodrozyKonsola\bin\Debug\BiuroPodrozyKonsola.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\BiuroPodrozyKonsola\BiuroPodrozyKonsola\bin\Debug\BiuroPodrozyKonsola.pdb
+c:\users\piotrek\documents\visual studio 2013\Projects\BiuroPodrozyKonsola\BiuroPodrozyKonsola\obj\Debug\BiuroPodrozyKonsola.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\BiuroPodrozyKonsola\BiuroPodrozyKonsola\obj\Debug\BiuroPodrozyKonsola.pdb
