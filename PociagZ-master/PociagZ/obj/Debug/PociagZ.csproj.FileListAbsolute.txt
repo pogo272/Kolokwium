@@ -1,0 +1,6 @@
+c:\users\piotrek\documents\visual studio 2013\Projects\PociagZ\PociagZ\bin\Debug\PociagZ.exe.config
+c:\users\piotrek\documents\visual studio 2013\Projects\PociagZ\PociagZ\bin\Debug\PociagZ.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\PociagZ\PociagZ\bin\Debug\PociagZ.pdb
+c:\users\piotrek\documents\visual studio 2013\Projects\PociagZ\PociagZ\obj\Debug\PociagZ.csprojResolveAssemblyReference.cache
+c:\users\piotrek\documents\visual studio 2013\Projects\PociagZ\PociagZ\obj\Debug\PociagZ.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\PociagZ\PociagZ\obj\Debug\PociagZ.pdb
