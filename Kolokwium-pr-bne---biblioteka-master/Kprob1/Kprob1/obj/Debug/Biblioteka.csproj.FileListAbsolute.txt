@@ -1,0 +1,6 @@
+C:\Users\Michał\source\repos\Kprob1\Kprob1\bin\Debug\Kprob1.exe.config
+C:\Users\Michał\source\repos\Kprob1\Kprob1\bin\Debug\Kprob1.exe
+C:\Users\Michał\source\repos\Kprob1\Kprob1\bin\Debug\Kprob1.pdb
+C:\Users\Michał\source\repos\Kprob1\Kprob1\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Michał\source\repos\Kprob1\Kprob1\obj\Debug\Kprob1.exe
+C:\Users\Michał\source\repos\Kprob1\Kprob1\obj\Debug\Kprob1.pdb
